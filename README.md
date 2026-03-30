@@ -36,6 +36,6 @@ Prepare for advanced DSA topics
 
 By completing these problems, you will:
 
-Gain solid control over 2D arrays fundamentals
-Improve logical thinking at a beginner level
-Be ready to move on to DSA-level matrix problems
+Gain solid control over 2D arrays fundamentals.
+
+Author>>Anirban Chattaraj
