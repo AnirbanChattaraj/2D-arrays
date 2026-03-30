@@ -11,27 +11,27 @@ Prepare for advanced DSA topics
 
 🟢 Basic
 
-Input and print a matrix
-Print elements row-wise
-Print elements column-wise
-Find sum of all elements
-Find maximum element
-Find minimum element
-Count positive, negative, and zero elements
+1.Input and print a matrix
+2.Print elements row-wise
+3.Print elements column-wise
+4.Find sum of all elements
+5.Find maximum element
+6.Find minimum element
+7.Count positive, negative, and zero elements
 
 🟡 Slight Logic
 
-Print main diagonal
-Print secondary diagonal
-Sum of each row
-Sum of each column
-Search and print position of an element
+8.Print main diagonal
+9.Print secondary diagonal
+10.Sum of each row
+11.Sum of each column
+12.Search and print position of an element
 
 🟠 Pre-DSA Logic Building
 
-Count even and odd elements
-Replace negative numbers with 0
-Check if matrix is an identity matrix
+13.Count even and odd elements
+14.Replace negative numbers with 0
+15.Check if matrix is an identity matrix
 🚀 Outcome
 
 By completing these problems, you will:
